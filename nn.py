@@ -9,8 +9,10 @@ from sklearn.neural_network import MLPRegressor
 
 def main(data, training, seed, games_to_predict):
     model = train_test(data, training, seed)
-    preds = model.predict(games_to_predict)
-
+    preds = {}
+    for game in games_to_predict:#games to predict, probably just a list of tuples with the names of the teams playing
+        preds[game] = model.predict(get_team_stats(game[0], game[1]))
+    print(preds)
 
 def train_test(data, training, seed):
     X, y = read_data(data)
@@ -22,6 +24,9 @@ def train_test(data, training, seed):
     return model
     
     
+def get_team_stats(T1, T2):
+    x = T1+T2#concatenate their power rankings from data2 or something
+    return x
 
 def match_pred(model, T1, T2):
         x = get_team_stats(T1, T2)
@@ -48,7 +53,3 @@ def read_data(file_name):
     X = 0
     y = 0
     return X, y
-
-def get_team_stats(T1, T2):
-    x = T1+T2
-    return x
