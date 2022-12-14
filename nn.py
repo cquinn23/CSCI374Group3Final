@@ -9,7 +9,7 @@ from sklearn.neural_network import MLPRegressor
 
 def main(data, training, seed, games_to_predict):
     model = train_test(data, training, seed)
-    preads = model.predict(games_to_predict)
+    preds = model.predict(games_to_predict)
 
 
 def train_test(data, training, seed):
