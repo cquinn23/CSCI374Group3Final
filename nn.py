@@ -117,7 +117,7 @@ def read_file(file_name): #add a true/false
 sum = 0
 max = 0
 for i in range(100):
-    nn = train_test_C("NCAC21_22 - Copy of Sheet2.csv", "NCAC21_22 - Sheet1.csv", 0.8, 123+i)
+    nn = train_test_C("NCAC21_22 - Copy of Sheet2.csv", "NCAC21_22 - Sheet1.csv", 0.75, 123+i)
     accuracy = nn[0]
     model = nn[1]
     sum += accuracy
