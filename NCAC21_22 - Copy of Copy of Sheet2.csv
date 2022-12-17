@@ -1,0 +1,326 @@
+T1,T2,T1 PTS,T2 PTS,DIFF
+Oberlin2022,Ohio Northern2022,58,62,-4
+Oberlin2022,CWRU2022,66,78,-12
+Oberlin2022,Allegheny2022,81,75,6
+Oberlin2022,Otterbein2022,57,58,-1
+Oberlin2022,Kalamazoo2022,73,67,6
+Oberlin2022,Carnegie Mellon2022,68,87,-19
+Oberlin2022,Alma2022,76,61,15
+Oberlin2022,Wabash2022,78,80,-2
+Oberlin2022,Denison2022,41,56,-15
+Oberlin2022,Hiram2022,98,101,-3
+Oberlin2022,Adrian2022,66,56,10
+Oberlin2021,Waynesburg2021,45,42,3
+Oberlin2021,Alma2021,67,59,8
+Oberlin2021,Manchester2021,73,75,-2
+Oberlin2021,Carnegie Mellon2021,64,84,-20
+Oberlin2021,Wooster2021,51,62,-11
+Oberlin2021,Kalamazoo2021,47,70,-23
+Oberlin2021,Wabash2021,87,85,2
+Oberlin2021,Kenyon2021,82,69,13
+Oberlin2021,DePauw2021,52,63,-11
+Oberlin2021,Wabash2021,74,75,-1
+Oberlin2021,Wittenberg2021,75,77,-2
+Oberlin2021,Kenyon2021,77,66,11
+Oberlin2021,Ohio Wesleyan2021,78,79,-1
+Oberlin2021,Hiram2021,70,76,-6
+Oberlin2021,Allegheny2021,70,77,-7
+Oberlin2021,Wooster2021,63,69,-6
+Oberlin2021,Wittenberg2021,60,64,-4
+Oberlin2021,Ohio Wesleyan2021,58,69,-11
+Oberlin2021,Denison2021,58,70,-12
+Oberlin2021,DePauw2021,71,57,14
+Oberlin2021,Allegheny2021,73,76,-3
+Oberlin2021,Denison2021,76,80,-4
+Oberlin2021,Hiram2021,67,82,-15
+Allegheny2022,Fredonia2022,94,53,41
+Allegheny2022,Dickinson2022,62,78,-16
+Allegheny2022,Oberlin2022,75,81,-6
+Allegheny2022,Westminster (PA)2022,83,86,-3
+Allegheny2022,Franciscan2022,80,56,24
+Allegheny2022,Bethany (WV)2022,90,52,38
+Allegheny2022,Penn St.-Behrend2022,65,66,-1
+Allegheny2022,Geneva2022,69,85,-16
+Allegheny2022,Thiel2022,84,70,14
+Allegheny2022,Wash. & Jeff.2022,90,84,6
+Allegheny2022,Saint Vincent2022,78,67,11
+Allegheny2021,Fredonia2021,88,74,14
+Allegheny2021,Saint Vincent2021,85,77,8
+Allegheny2021,Penn St.-Behrend2021,62,79,-17
+Allegheny2021,Thiel2021,79,80,-1
+Allegheny2021,Hiram2021,103,68,35
+Allegheny2021,Kenyon2021,84,80,4
+Allegheny2021,Wooster2021,60,77,-17
+Allegheny2021,Ohio Wesleyan2021,70,79,-9
+Allegheny2021,Denison2021,74,82,-8
+Allegheny2021,Oberlin2021,77,70,7
+Allegheny2021,Kenyon2021,85,80,5
+Allegheny2021,Hiram2021,77,89,-12
+Allegheny2021,Ohio Wesleyan2021,64,78,-14
+Allegheny2021,Wabash2021,89,104,-15
+Allegheny2021,DePauw2021,68,73,-5
+Allegheny2021,Wooster2021,76,65,11
+Allegheny2021,Wittenberg2021,71,75,-4
+Allegheny2021,Oberlin2021,76,73,3
+Allegheny2021,Denison2021,56,72,-16
+Allegheny2021,Wooster2021,79,86,-7
+Earlham2022,Trine2022,61,70,-9
+Earlham2022,Kenyon2022,59,74,-15
+Earlham2022,Otterbein2022,54,66,-12
+Earlham2022,DePauw2022,63,80,-17
+Earlham2022,Wabash2022,65,57,8
+Earlham2022,Manchester2022,60,75,-15
+Earlham2022,Rose-Hulman2022,65,77,-12
+Earlham2022,Anderson (IN)2022,83,87,-4
+Earlham2021,Rockford2021,78,84,-6
+Earlham2021,DePauw2021,58,67,-9
+Earlham2021,Adrian2021,94,85,9
+Earlham2021,North Park2021,63,66,-3
+Earlham2021,Manchester2021,71,75,-4
+Earlham2021,Rose-Hulman2021,57,64,-7
+Earlham2021,Anderson (IN)2021,56,62,-6
+Earlham2021,Berea2021,86,65,21
+Earlham2021,Kenyon2021,75,73,2
+Earlham2021,Franklin2021,57,72,-15
+Earlham2021,Hanover2021,47,58,-11
+Earlham2021,Defiance2021,66,63,3
+Earlham2021,Manchester2021,73,71,2
+Earlham2021,Bluffton2021,60,59,1
+Earlham2021,Franklin2021,77,85,-8
+Earlham2021,Anderson (IN)2021,78,68,10
+Earlham2021,Rose-Hulman2021,66,59,7
+Earlham2021,Hanover2021,75,85,-10
+Earlham2021,Bluffton2021,76,68,8
+Earlham2021,Mt. St. Joseph2021,67,70,-3
+Earlham2021,Defiance2021,67,60,7
+Earlham2021,Transylvania2021,72,84,-12
+Earlham2021,Rose-Hulman2021,56,66,-10
+Ohio Wesleyan2021,Capital2021,56,61,-5
+Ohio Wesleyan2021,Muskingum2021,86,82,4
+Ohio Wesleyan2021,Wheaton (IL)2021,62,84,-22
+Ohio Wesleyan2021,Neb. Wesleyan2021,83,77,6
+Ohio Wesleyan2021,Heidelberg2021,81,72,9
+Ohio Wesleyan2021,Kenyon2021,64,58,6
+Ohio Wesleyan2021,Denison2021,71,74,-3
+Ohio Wesleyan2021,Wabash2021,58,86,-28
+Ohio Wesleyan2021,Allegheny2021,79,70,9
+Ohio Wesleyan2021,Ohio Northern2021,83,87,-4
+Ohio Wesleyan2021,Otterbein2022,60,64,-4
+Ohio Wesleyan2021,Hiram2021,89,83,6
+Ohio Wesleyan2021,Wooster2021,82,81,1
+Ohio Wesleyan2021,Oberlin2021,79,78,1
+Ohio Wesleyan2021,DePauw2021,70,63,7
+Ohio Wesleyan2021,Wittenberg2021,71,77,-6
+Ohio Wesleyan2021,Denison2021,76,65,11
+Ohio Wesleyan2021,Kenyon2021,79,60,19
+Ohio Wesleyan2021,Allegheny2021,78,64,14
+Ohio Wesleyan2021,Oberlin2021,69,58,11
+Ohio Wesleyan2021,Wooster2021,69,74,-5
+Ohio Wesleyan2021,Wabash2021,74,88,-14
+Ohio Wesleyan2021,Hiram2021,79,55,24
+Ohio Wesleyan2021,Wittenberg2021,67,71,-4
+Ohio Wesleyan2021,DePauw2021,74,65,9
+Ohio Wesleyan2021,DePauw2021,71,81,-10
+Ohio Wesleyan2022,Buffalo St.2021,79,63,16
+Ohio Wesleyan2022,John Carroll2021,55,70,-15
+Ohio Wesleyan2022,Albion2021,73,67,6
+Ohio Wesleyan2022,Capital2021,67,65,2
+Ohio Wesleyan2022,Heidelberg2021,70,72,-2
+Ohio Wesleyan2022,Kenyon2021,75,61,14
+Ohio Wesleyan2022,Wooster2021,52,73,-21
+Ohio Wesleyan2022,Wittenberg2021,52,42,10
+Wabash2021,Centre2021,74,70,4
+Wabash2021,Hanover2021,81,83,-2
+Wabash2021,Marietta2021,92,99,-7
+Wabash2021,Emory2021,98,90,8
+Wabash2021,Denison2021,92,87,5
+Wabash2021,Rose-Hulman2021,67,64,3
+Wabash2021,Oberlin2021,85,87,-2
+Wabash2021,Ohio Wesleyan2021,86,58,28
+Wabash2021,Wittenberg2021,101,73,28
+Wabash2021,Mt. St. Joseph2021,96,88,8
+Wabash2021,Anderson (IN)2021,96,84,12
+Wabash2021,Oberlin2021,75,74,1
+Wabash2021,Hiram2021,100,79,21
+Wabash2021,Kenyon2021,92,64,28
+Wabash2021,DePauw2021,96,70,26
+Wabash2021,Wittenberg2021,87,69,18
+Wabash2021,Denison2021,86,63,23
+Wabash2021,Wooster2021,94,80,14
+Wabash2021,Allegheny2021,104,89,15
+Wabash2021,Hiram2021,103,83,20
+Wabash2021,Ohio Wesleyan2021,88,74,14
+Wabash2021,Wooster2021,97,75,22
+Wabash2021,DePauw2021,81,72,9
+Wabash2021,Kenyon2021,98,75,23
+Wabash2021,Hiram2021,101,79,22
+Wabash2021,Denison2021,98,74,24
+Wabash2021,Wooster2021,85,84,1
+Wabash2021,Berry2021,91,79,12
+Wabash2021,Emory2021,87,86,1
+Wabash2021,Williams2021,73,59,14
+Wabash2021,Ill. Wesleyan2021,81,75,6
+Wabash2021,Elmhurst2021,68,90,-22
+Wittenberg2021,Hendrix2021,78,80,-2
+Wittenberg2021,La Roche2021,83,89,-6
+Wittenberg2021,Hanover2021,69,76,-7
+Wittenberg2021,Wilmington (OH)2021,64,57,7
+Wittenberg2021,Hiram2021,79,72,7
+Wittenberg2021,DePauw2021,77,50,27
+Wittenberg2021,Wabash2021,73,101,-28
+Wittenberg2021,Juniata2021,75,69,6
+Wittenberg2021,Albion2021,63,76,-13
+Wittenberg2021,Mt. St. Joseph2021,59,63,-4
+Wittenberg2021,Oberlin2021,77,75,2
+Wittenberg2021,Wooster2021,80,77,3
+Wittenberg2021,Denison2021,55,69,-14
+Wittenberg2021,Ohio Wesleyan2021,77,71,6
+Wittenberg2021,Hiram2021,84,54,30
+Wittenberg2021,Wabash2021,69,87,-18
+Wittenberg2021,Oberlin2021,64,60,4
+Wittenberg2021,Denison2021,75,72,3
+Wittenberg2021,Kenyon2021,82,64,18
+Wittenberg2021,Kenyon2021,86,69,17
+Wittenberg2021,DePauw2021,67,75,-8
+Wittenberg2021,Allegheny2021,75,71,4
+Wittenberg2021,Ohio Wesleyan2021,71,67,4
+Wittenberg2021,Wooster2021,57,83,-26
+Wittenberg2021,Denison2021,58,62,-4
+Kenyon2022,Waynesburg2022,71,54,17
+Kenyon2022,Earlham2022,74,59,15
+Kenyon2022,Grove City2022,60,50,10
+Kenyon2022,Wilmington (OH)2022,74,82,-8
+Kenyon2022,Grinnell2022,101,95,6
+Kenyon2022,Muskingum2022,58,56,2
+Kenyon2022,Ohio Wesleyan2022,61,75,-14
+Kenyon2022,Hiram2022,77,82,-5
+Kenyon2022,DePauw2022,67,69,-2
+Kenyon2021,Wash. & Jeff.2021,93,103,-10
+Kenyon2021,Muskingum2021,53,75,-22
+Kenyon2021,Geneva2021,89,95,-6
+Kenyon2021,Westminster (PA)2021,76,77,-1
+Kenyon2021,DePauw2021,64,81,-17
+Kenyon2021,Ohio Wesleyan2021,58,64,-6
+Kenyon2021,Allegheny2021,80,84,-4
+Kenyon2021,Grove City2021,64,62,2
+Kenyon2021,Oberlin2021,69,82,-13
+Kenyon2021,Earlham2021,73,75,-2
+Kenyon2021,Waynesburg2021,68,49,19
+Kenyon2021,Oberlin2021,66,77,-11
+Kenyon2021,Hiram2021,65,77,-12
+Kenyon2021,Wooster2021,77,91,-14
+Kenyon2021,Wabash2021,64,92,-28
+Kenyon2021,Allegheny2021,80,85,-5
+Kenyon2021,Ohio Wesleyan2021,60,79,-19
+Kenyon2021,DePauw2021,50,81,-31
+Kenyon2021,Wooster2021,57,84,-27
+Kenyon2021,Wittenberg2021,64,82,-18
+Kenyon2021,Wittenberg2021,69,86,-17
+Kenyon2021,Denison2021,55,77,-22
+Kenyon2021,Denison2021,70,72,-2
+Kenyon2021,Hiram2021,70,62,8
+Kenyon2021,Wabash2021,75,98,-23
+DePauw2022,Anderson (IN)2022,89,81,8
+DePauw2022,Rose-Hulman2022,80,75,5
+DePauw2022,Franklin2022,62,63,-1
+DePauw2022,Westminster (MO)2022,73,63,10
+DePauw2022,Webster2022,79,61,18
+DePauw2022,Earlham2022,80,63,17
+DePauw2022,Benedictine (IL)2022,67,57,10
+DePauw2022,Denison2022,82,60,22
+DePauw2022,Wooster2022,54,68,-14
+DePauw2022,Wittenberg2022,50,60,-10
+DePauw2022,Kenyon2022,69,67,2
+DePauw2022,Benedictine (IL)2021,71,73,-2
+DePauw2022,Earlham2021,67,58,9
+DePauw2022,Kenyon2021,81,64,17
+DePauw2022,Rose-Hulman2021,72,66,6
+DePauw2022,Denison2021,74,83,-9
+DePauw2022,Wooster2021,59,73,-14
+DePauw2022,Wittenberg2021,69,77,-8
+DePauw2022,Oberlin2021,63,52,11
+DePauw2022,Augsburg2021,68,82,-14
+DePauw2022,Salisbury2021,87,75,12
+DePauw2022,Ohio Wesleyan2021,63,70,-7
+DePauw2022,Wabash2021,70,96,-26
+DePauw2022,Wooster2021,69,78,-9
+DePauw2022,Denison2021,75,72,3
+DePauw2022,Kenyon2021,81,50,31
+DePauw2022,Hiram2021,61,66,-5
+DePauw2022,Hiram2021,66,54,12
+DePauw2022,Allegheny2021,73,68,5
+DePauw2022,Wittenberg2021,75,67,8
+DePauw2022,Oberlin2021,57,71,-14
+DePauw2022,Wabash2021,72,81,-9
+DePauw2022,Ohio Wesleyan2021,65,74,-9
+DePauw2022,Ohio Wesleyan2021,81,71,10
+DePauw2022,Wooster2021,59,75,-16
+Wooster2022,Mount Aloysius2022,86,56,30
+Wooster2022,Ohio Northern2022,72,57,15
+Wooster2022,Mount Union2022,76,94,-18
+Wooster2022,Hiram2022,87,73,14
+Wooster2022,DePauw2022,68,54,14
+Wooster2022,Ohio Wesleyan2022,73,52,21
+Wooster2022,Rochester (NY)2022,80,91,-11
+Wooster2021,Saint Vincent2021,75,57,18
+Wooster2021,Ripon2021,83,71,12
+Wooster2021,Mount Union2021,68,81,-13
+Wooster2021,Oberlin2021,62,51,11
+Wooster2021,DePauw2021,73,59,14
+Wooster2021,Allegheny2021,77,60,17
+Wooster2021,Hiram2021,82,53,29
+Wooster2021,UC Santa Cruz2021,80,71,9
+Wooster2021,Lewis & Clark2021,67,72,-5
+Wooster2021,Lynchburg2021,88,78,10
+Wooster2021,Muskingum2021,66,68,-2
+Wooster2021,Ohio Wesleyan2021,81,82,-1
+Wooster2021,Kenyon2021,91,77,14
+Wooster2021,Wittenberg2021,83,80,3
+Wooster2021,Denison2021,75,60,15
+Wooster2021,DePauw2021,78,69,9
+Wooster2021,Oberlin2021,69,63,6
+Wooster2021,Hiram2021,81,83,-2
+Wooster2021,Wabash2021,80,94,-14
+Wooster2021,Kenyon2021,84,57,27
+Wooster2021,Ohio Wesleyan2021,74,69,5
+Wooster2021,Allegheny2021,65,76,-11
+Wooster2021,Wabash2021,75,97,-22
+Wooster2021,Denison2021,67,56,11
+Wooster2021,Wittenberg2021,77,57,20
+Wooster2021,Allegheny2021,86,79,7
+Wooster2021,DePauw2021,75,59,16
+Wooster2021,Wabash2021,84,85,-1
+Ohio Wesleyan2022,Buffalo St.2022,79,63,16
+Ohio Wesleyan2022,John Carroll2022,55,70,-15
+Ohio Wesleyan2022,Albion2022,73,67,6
+Ohio Wesleyan2022,Capital2022,67,65,2
+Ohio Wesleyan2022,Heidelberg2022,70,72,-2
+Ohio Wesleyan2022,Kenyon2022,75,61,14
+Ohio Wesleyan2022,Wooster2022,52,73,-21
+Ohio Wesleyan2022,Wittenberg2022,52,42,10
+Wabash2022,Mt. St. Joseph2022,81,78,3
+Wabash2022,WashU2022,70,67,3
+Wabash2022,Hanover2022,79,69,10
+Wabash2022,Marietta2022,81,89,-8
+Wabash2022,Maryville (TN)2022,84,74,10
+Wabash2022,Anderson (IN)2022,87,85,2
+Wabash2022,Earlham2022,57,65,-8
+Wabash2022,Oberlin2022,80,78,2
+Wabash2022,Denison2022,74,66,8
+Wittenberg2022,John Carroll2022,72,94,-22
+Wittenberg2022,Buffalo St.2022,75,68,7
+Wittenberg2022,Mt. St. Joseph2022,67,61,6
+Wittenberg2022,Wilmington (OH)2022,81,61,20
+Wittenberg2022,Hiram2022,70,80,-10
+Wittenberg2022,DePauw2022,60,50,10
+Wittenberg2022,Ohio Wesleyan2022,42,52,-10
+Hiram2022,Geneva2022,108,113,-5
+Hiram2022,Baldwin Wallace2022,77,85,-8
+Hiram2022,Pitt.-Greensburg2022,94,87,7
+Hiram2022,Pitt.-Bradford2022,82,81,1
+Hiram2022,Bluffton2022,98,68,30
+Hiram2022,Calvin2022,61,91,-30
+Hiram2022,Wooster2022,73,87,-14
+Hiram2022,Wittenberg2022,80,70,10
+Hiram2022,Kenyon2022,82,77,5
+Hiram2022,Oberlin2022,101,98,3
