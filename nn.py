@@ -24,7 +24,7 @@ def train_test_C(data, labels, training, seed):
     for row in X.iterrows():
         y = pd.concat([y, pd.concat([Y.loc[Y["Team-year"] == row[1]["T1"]].add_suffix("1").reset_index(drop = True).drop("Team-year1",inplace = False, axis = 1), Y.loc[Y["Team-year"] == row[1]["T2"]].add_suffix("2").reset_index(drop = True).drop("Team-year2",inplace = False, axis = 1)], axis = 1)], axis = 0)
     y = y.reset_index(drop = True)
-    print(y)
+    #print(y)
     y.to_csv('y.csv')
     X = X.drop("T1", inplace = False, axis = 1)
     X = X.drop("T2", inplace = False, axis = 1)
@@ -38,15 +38,15 @@ def train_test_C(data, labels, training, seed):
     X = X.drop("T2 PCT", inplace = False, axis = 1)
     X = X.drop("DIFF", inplace = False, axis = 1)
     #X = X.drop("RESULT", inplace = False, axis = 1)
-    print(X)
+    #print(X)
     X_train, X_test, y_train, y_test = train_test_split(y, X, random_state=1, train_size = training)
-    model = MLPClassifier(random_state=seed, max_iter = 500).fit(X_train, y_train)
+    model = MLPClassifier(random_state=seed, max_iter = 500).fit(X_train,  y_train.values.ravel())
     a = model.predict(X_test)
-    print(a)
-    print(y_test)
+    #print(a)
+    #print(y_test)
     b = model.score(X_test, y_test)
-    print(b)
-    return(b)
+    #print(b)
+    return[b,model]
 
 
 def train_test_R(data, labels, training, seed):
@@ -115,8 +115,18 @@ def read_file(file_name): #add a true/false
 
 
 sum = 0
+max = 0
 for i in range(100):
-    sum += train_test_C("NCAC21_22 - Copy of Sheet2.csv", "NCAC21_22 - Sheet1.csv", 0.9, 123+i)
-print(sum/100)
+    nn = train_test_C("NCAC21_22 - Copy of Sheet2.csv", "NCAC21_22 - Sheet1.csv", 0.8, 123+i)
+    accuracy = nn[0]
+    model = nn[1]
+    sum += accuracy
+    if accuracy > max:
+        max = accuracy
+        best_model = model
+
+print("Accuracy Average: ", sum/100)
+print("Best Model: ", max)
+
 
 #best test of win vs loss classifier was average of 79% accuracy over 30 runs with training size of .9, also got 79% on 50 and 100 runs
