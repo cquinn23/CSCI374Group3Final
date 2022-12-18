@@ -115,15 +115,15 @@ def read_file(file_name): #add a true/false
 
 
 best_max = 0
-max_l = 0
-l_max = 0
-best_l = 0
-for l in range(7):
+max_t = 0
+t_max = 0
+best_t = 0
+for t in range(7):
     sum = 0
     max = 0
-    learning_rate = 0.6 + .05*l
+    training_rate = 0.6 + .05*t
     for i in range(100):
-        nn = train_test_C("NCAC21_22 - Copy of Sheet2.csv", "NCAC21_22 - Sheet1.csv", learning_rate, 123+i)
+        nn = train_test_C("NCAC21_22 - Copy of Sheet2.csv", "NCAC21_22 - Sheet1.csv", training_rate, 123+i)
         accuracy = nn[0]
         model = nn[1]
         sum += accuracy
@@ -131,14 +131,13 @@ for l in range(7):
             max = accuracy
     if max > best_max:
         best_max = max
-        max_l = learning_rate
+        max_t = training_rate
         best_model = model
-    if sum/100 > l_max:
-        l_max = sum/100
-        best_l = learning_rate
-    print("Learning Rate:", learning_rate, "| Accuracy Average:", sum/100, "| Best Model:", max)
+    if sum/100 > t_max:
+        t_max = sum/100
+        best_t = training_rate
+    print("Training Rate:", training_rate, "| Accuracy Average:", sum/100, "| Best Model:", max)
 
-print("The Best Learning Rate Was", best_l, "with an average accuracy of", l_max)
-print("The individual best accuracy was", best_max, "from a model with a learning rate of", max_l)
+print("The Best Training Rate Was", best_l, "with an average accuracy of", l_max)
+print("The individual best accuracy was", best_max, "from a model with a training rate of", max_l)
 
-#best test of win vs loss classifier was average of 79% accuracy over 30 runs with training size of .9, also got 79% on 50 and 100 runs
